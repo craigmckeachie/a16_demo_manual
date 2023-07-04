@@ -55,7 +55,6 @@
     > TypeScript content is included/bundled for free with the purchase of Introduction to Angular courseware
   - AngularChallengeManual.pdf
 
-- AngularCourseAdvanced-[xxxx].zip
 - AngularCourseComprehensive-[xxxx].zip
   - AngularSlidesIntroduction.pdf
   - AngularLabManualIntroduction.pdf
@@ -63,9 +62,9 @@
   - TypeScriptLabManual.pdf
   - AngularSlidesAdvanced.pdf
   - AngularLabManualAdvanced.pdf
-    > TypeScript content is included/bundled for free with the purchase of Comprehensive Angular courseware
   - AngularChallengeManual.pdf
-    > Note: I just give Instructors and students both the advanced AND intro pdfs for an advanced class and let them decide where in the materials they want to start.
+- AngularCourseAdvanced-[xxxx].zip
+  > Note: I just give Instructors and students both the advanced AND intro pdfs for an advanced class and let them decide where in the materials they want to start.
 
 ## Errata
 
